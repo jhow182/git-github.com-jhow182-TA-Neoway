@@ -1,0 +1,363 @@
+﻿2022-08-22T10:13:53.6517191-03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2022-08-22T10:13:53.6518782-03:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.9.7 in Framework net50 in x64 mode execution started
+2022-08-22T10:13:53.6518815-03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\jcoelho\source\repos\TANeoway\TANeoway\bin\Debug\net5.0\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2022-08-22T10:13:53.6532727-03:00;VSTestExecutionThread;Info;Current UserName: 'jcoelho', MachineName: 'JCOELHO'
+2022-08-22T10:13:53.6759674-03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\jcoelho\source\repos\TANeoway\TANeoway\bin\Debug\net5.0\TANeoway.dll
+2022-08-22T10:13:53.6761381-03:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\jcoelho\source\repos\TANeoway\TestResults" (default)
+2022-08-22T10:13:53.6761868-03:00;VSTestExecutionThread;Info;Profile: 
+2022-08-22T10:13:53.7444604-03:00;VSTestExecutionThread;Info;Log file path: C:\Users\jcoelho\source\repos\TANeoway\TestResults\Unnamed project__2022-08-22T101353.log
+2022-08-22T10:13:53.7489678-03:00;Thread#12;Info;Checking activation
+2022-08-22T10:13:53.8292760-03:00;Thread#12;Info;Activated.
+2022-08-22T10:13:53.8294571-03:00;Thread#12;Info;Activation check completed
+2022-08-22T10:13:53.8295122-03:00;Thread#12;Info;Starting test run
+2022-08-22T10:13:53.9153749-03:00;Thread#12;Info;Discovering target: Default
+2022-08-22T10:13:53.9156184-03:00;Thread#12;Info;Discovering tests from assembly: C:\Users\jcoelho\source\repos\TANeoway\TANeoway\bin\Debug\net5.0\TANeoway.dll
+2022-08-22T10:13:54.0498911-03:00;Thread#12;Info;Discovered tests from assembly: C:\Users\jcoelho\source\repos\TANeoway\TANeoway\bin\Debug\net5.0\TANeoway.dll
+2022-08-22T10:13:54.0515581-03:00:Test Suite Dump
+2022-08-22T10:13:54.0534251-03:00:#0: Unnamed project/ - 
+2022-08-22T10:13:54.0534533-03:00:#1: Default - 
+2022-08-22T10:13:54.0534577-03:00:#2: TANeoway - 
+2022-08-22T10:13:54.0534611-03:00:#3: W3school - 
+2022-08-22T10:13:54.0545193-03:00:#4: Acesso à página: How To Make a Modal Box With CSS and JavaScript - TestAssembly:TANeoway/Feature:W3school/Scenario:Acesso+%c3%a0+p%c3%a1gina%3a+How+To+Make+a+Modal+Box+With+CSS+and+JavaScript
+2022-08-22T10:13:54.0545733-03:00:#5: Acesso à página: HTML Color Groups, Black - TestAssembly:TANeoway/Feature:W3school/Scenario:Acesso+%c3%a0+p%c3%a1gina%3a+HTML+Color+Groups%2c+Black
+2022-08-22T10:13:54.0545896-03:00:#6: Acesso à página: HTML Color Groups, Maroon - TestAssembly:TANeoway/Feature:W3school/Scenario:Acesso+%c3%a0+p%c3%a1gina%3a+HTML+Color+Groups%2c+Maroon
+2022-08-22T10:13:54.0546106-03:00:#7: Acesso à página: HTML Color Groups, Gold - TestAssembly:TANeoway/Feature:W3school/Scenario:Acesso+%c3%a0+p%c3%a1gina%3a+HTML+Color+Groups%2c+Gold
+2022-08-22T10:13:54.0546218-03:00:#8: Acesso à página: HTML Color Groups, Cyan - TestAssembly:TANeoway/Feature:W3school/Scenario:Acesso+%c3%a0+p%c3%a1gina%3a+HTML+Color+Groups%2c+Cyan
+2022-08-22T10:13:54.0546317-03:00:#9: Acesso à página: HTML Color Groups, Blue - TestAssembly:TANeoway/Feature:W3school/Scenario:Acesso+%c3%a0+p%c3%a1gina%3a+HTML+Color+Groups%2c+Blue
+2022-08-22T10:13:54.0546531-03:00:#10: Acesso à página: HTML Color Groups, Silver - TestAssembly:TANeoway/Feature:W3school/Scenario:Acesso+%c3%a0+p%c3%a1gina%3a+HTML+Color+Groups%2c+Silver
+2022-08-22T10:13:54.0546726-03:00:#11: Acesso à página: HTML Color Groups, BlueViolet - TestAssembly:TANeoway/Feature:W3school/Scenario:Acesso+%c3%a0+p%c3%a1gina%3a+HTML+Color+Groups%2c+BlueViolet
+2022-08-22T10:13:54.0546878-03:00:#12: Acesso à página: HTML Forms e Tryit Editor v3.7 - HTML Forms - TestAssembly:TANeoway/Feature:W3school/Scenario:Acesso+%c3%a0+p%c3%a1gina%3a+HTML+Forms+e+Tryit+Editor+v3.7+-+HTML+Forms
+2022-08-22T10:13:54.0547344-03:00:End: Test Suite Dump
+2022-08-22T10:13:54.0702039-03:00:Thread#0:Scheduler: get next test for thread 0
+2022-08-22T10:13:54.0715481-03:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2022-08-22T10:13:54.0716049-03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2022-08-22T10:13:54.0739478-03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2022-08-22T10:13:54.0739603-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2022-08-22T10:13:54.0739621-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2022-08-22T10:13:54.0739643-03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2022-08-22T10:13:54.0744156-03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2022-08-22T10:13:54.0758788-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2022-08-22T10:13:54.0775117-03:00:Thread #0: creating new test thread executor for TANeoway, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2022-08-22T10:13:54.0792610-03:00:Thread #0: Creating test assembly executor for execution model OutProc
+2022-08-22T10:13:54.0794124-03:00:Thread #0: Creating test assembly executor for execution model OutProc
+2022-08-22T10:13:54.1138214-03:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2022-08-22T10:13:54.1175291-03:00:starting Out Of Process Executor
+2022-08-22T10:13:54.1955171-03:00:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2022-08-22T10:13:54.1988138-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' from .deps.json file
+2022-08-22T10:13:54.1988373-03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' from .deps.json
+2022-08-22T10:13:54.2000838-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\jcoelho\source\repos\TANeoway\TANeoway\bin\Debug\net5.0'
+2022-08-22T10:13:54.2011303-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\jcoelho\source\repos\TANeoway\TANeoway\bin\Debug\net5.0\Microsoft.VisualStudio.Validation.dll'
+2022-08-22T10:13:54.2012294-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\jcoelho\source\repos\TANeoway\TANeoway\bin\Debug\net5.0\Microsoft.VisualStudio.Validation.exe'
+2022-08-22T10:13:54.2012787-03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\jcoelho\source\repos\TANeoway\TANeoway\bin\Debug\net5.0'
+2022-08-22T10:13:54.2016320-03:00:TargetFramework: .NETCoreApp,Version=v5.0
+2022-08-22T10:13:54.2021245-03:00:Tfm: netcoreapp5.0
+2022-08-22T10:13:54.2021342-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\jcoelho\source\repos\TANeoway\TANeoway\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0'
+2022-08-22T10:13:54.2021354-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\jcoelho\source\repos\TANeoway\TANeoway\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0\Microsoft.VisualStudio.Validation.dll'
+2022-08-22T10:13:54.2022096-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\jcoelho\source\repos\TANeoway\TANeoway\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0\Microsoft.VisualStudio.Validation.exe'
+2022-08-22T10:13:54.2022474-03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\jcoelho\source\repos\TANeoway\TANeoway\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0'
+2022-08-22T10:13:54.2104059-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.15'
+2022-08-22T10:13:54.2104197-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.15\Microsoft.VisualStudio.Validation.dll'
+2022-08-22T10:13:54.2108963-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.15\Microsoft.VisualStudio.Validation.exe'
+2022-08-22T10:13:54.2109423-03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.15'
+2022-08-22T10:13:54.2110891-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.15'
+2022-08-22T10:13:54.2110942-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.15\Microsoft.VisualStudio.Validation.dll'
+2022-08-22T10:13:54.2111379-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.15\Microsoft.VisualStudio.Validation.exe'
+2022-08-22T10:13:54.2111675-03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.15'
+2022-08-22T10:13:54.2115477-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.15'
+2022-08-22T10:13:54.2115543-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.15\Microsoft.VisualStudio.Validation.dll'
+2022-08-22T10:13:54.2120189-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.15\Microsoft.VisualStudio.Validation.exe'
+2022-08-22T10:13:54.2120675-03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.15'
+2022-08-22T10:13:54.2139240-03:00:Starting callback TCP Rpc server
+2022-08-22T10:13:54.2441660-03:00:Asynchronously starting background TCP Rpc Server on port 32768
+2022-08-22T10:13:54.2442136-03:00:Started callback TCP Rpc server on port 32768
+2022-08-22T10:13:54.2442180-03:00:Starting logger TCP Rpc server
+2022-08-22T10:13:54.2458024-03:00:Asynchronously starting background TCP Rpc Server on port 32769
+2022-08-22T10:13:54.2458371-03:00:Started logger TCP Rpc server on port 32769
+2022-08-22T10:13:54.4341013-03:00:Executing test executor at 'dotnet' 'exec "C:\Users\jcoelho\source\repos\TANeoway\TANeoway\bin\Debug\net5.0\SpecFlowPlusRunner\net5.0\TechTalk.SpecRun.Framework.Executor.anycpu.net5_0.dll" --remoteRunnerPid 10664 --uniqueId "2022-08-22T101353" --outputFolder "C:\Users\jcoelho\source\repos\TANeoway\TestResults" --callbackPort 32768 --loggerPort 32769' in 'C:\Users\jcoelho\source\repos\TANeoway\TANeoway\bin\Debug\net5.0'
+2022-08-22T10:13:54.4493456-03:00:Executor with PID 18980 has been started successfully.
+2022-08-22T10:13:54.4522370-03:00:Out of Process Executor 18980 started
+2022-08-22T10:13:54.4522499-03:00:Waiting for endpoint
+2022-08-22T10:13:54.7686086-03:00:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2022-08-22T10:13:54.7686229-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' from .deps.json file
+2022-08-22T10:13:54.7686247-03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' from .deps.json
+2022-08-22T10:13:54.7686279-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\jcoelho\source\repos\TANeoway\TANeoway\bin\Debug\net5.0'
+2022-08-22T10:13:54.7686289-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\jcoelho\source\repos\TANeoway\TANeoway\bin\Debug\net5.0\Microsoft.VisualStudio.Threading.dll'
+2022-08-22T10:13:54.7686600-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\jcoelho\source\repos\TANeoway\TANeoway\bin\Debug\net5.0\Microsoft.VisualStudio.Threading.exe'
+2022-08-22T10:13:54.7686975-03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\jcoelho\source\repos\TANeoway\TANeoway\bin\Debug\net5.0'
+2022-08-22T10:13:54.7687001-03:00:TargetFramework: .NETCoreApp,Version=v5.0
+2022-08-22T10:13:54.7687170-03:00:Tfm: netcoreapp5.0
+2022-08-22T10:13:54.7687191-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\jcoelho\source\repos\TANeoway\TANeoway\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0'
+2022-08-22T10:13:54.7687200-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\jcoelho\source\repos\TANeoway\TANeoway\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0\Microsoft.VisualStudio.Threading.dll'
+2022-08-22T10:13:54.7687650-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\jcoelho\source\repos\TANeoway\TANeoway\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0\Microsoft.VisualStudio.Threading.exe'
+2022-08-22T10:13:54.7687959-03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\jcoelho\source\repos\TANeoway\TANeoway\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0'
+2022-08-22T10:13:54.7691265-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.15'
+2022-08-22T10:13:54.7691325-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.15\Microsoft.VisualStudio.Threading.dll'
+2022-08-22T10:13:54.7691838-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.15\Microsoft.VisualStudio.Threading.exe'
+2022-08-22T10:13:54.7692141-03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.15'
+2022-08-22T10:13:54.7693121-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.15'
+2022-08-22T10:13:54.7693164-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.15\Microsoft.VisualStudio.Threading.dll'
+2022-08-22T10:13:54.7693521-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.15\Microsoft.VisualStudio.Threading.exe'
+2022-08-22T10:13:54.7693805-03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.15'
+2022-08-22T10:13:54.7694779-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.15'
+2022-08-22T10:13:54.7694872-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.15\Microsoft.VisualStudio.Threading.dll'
+2022-08-22T10:13:54.7695255-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.15\Microsoft.VisualStudio.Threading.exe'
+2022-08-22T10:13:54.7695540-03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.15'
+2022-08-22T10:13:54.9993423-03:00:Remote executor port received: 32770
+2022-08-22T10:13:54.9998482-03:00:Creating executor TCP client on port 32770
+2022-08-22T10:13:55.0001332-03:00:Created executor TCP client on port 32770
+2022-08-22T10:13:55.0001384-03:00:Connecting to remote executor TCP server
+2022-08-22T10:13:55.0009401-03:00:Connected remote executor TCP server
+2022-08-22T10:13:55.0010577-03:00:trying to connect to Out of Process Executor the 1 attempt
+2022-08-22T10:13:55.0010628-03:00:Connection to Out of Process Executor established in the 1 attempt
+2022-08-22T10:13:55.1198551-03:00:2022-08-22T10:13:55.1189641-03:00:OutOfProcessTestAssemblyExecutor: initialized for C:\Users\jcoelho\source\repos\TANeoway\TANeoway\bin\Debug\net5.0\TANeoway.dll on test thread #0
+2022-08-22T10:13:55.1234018-03:00:Endpoint 18980 started
+2022-08-22T10:13:55.1367125-03:00:2022-08-22T10:13:55.1363968-03:00:OutOfProcessTestAssemblyExecutor: running tests...
+2022-08-22T10:13:55.2155676-03:00:2022-08-22T10:13:55.2152271-03:00:Assembly resolving TechTalk.SpecFlow, Version=3.9.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2022-08-22T10:13:55.2179499-03:00:2022-08-22T10:13:55.2176671-03:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecFlow' from .deps.json file
+2022-08-22T10:13:55.2200014-03:00:2022-08-22T10:13:55.2197309-03:00:[AssemblyCache] Resolved 'TechTalk.SpecFlow' to 'C:\Users\jcoelho\.nuget\packages\specflow\3.9.8\lib\netstandard2.0\TechTalk.SpecFlow.dll'
+2022-08-22T10:13:55.3104879-03:00:2022-08-22T10:13:55.3100723-03:00:Thread#0:T:-> Loading plugin C:\Users\jcoelho\source\repos\TANeoway\TANeoway\bin\Debug\net5.0\TANeoway.dll
+2022-08-22T10:13:55.3114977-03:00:2022-08-22T10:13:55.3112680-03:00:Assembly resolving Microsoft.Extensions.DependencyModel, Version=1.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-08-22T10:13:55.3118797-03:00:2022-08-22T10:13:55.3117049-03:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.DependencyModel' from .deps.json file
+2022-08-22T10:13:55.3126287-03:00:2022-08-22T10:13:55.3122467-03:00:[AssemblyCache] Resolved 'Microsoft.Extensions.DependencyModel' to 'C:\Users\jcoelho\.nuget\packages\microsoft.extensions.dependencymodel\1.0.3\lib\netstandard1.6\Microsoft.Extensions.DependencyModel.dll'
+2022-08-22T10:13:55.3461875-03:00:2022-08-22T10:13:55.3458309-03:00:Assembly resolving Microsoft.DotNet.PlatformAbstractions, Version=1.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-08-22T10:13:55.3466033-03:00:2022-08-22T10:13:55.3464464-03:00:[AssemblyCache] Trying to resolve 'Microsoft.DotNet.PlatformAbstractions' from .deps.json file
+2022-08-22T10:13:55.3471601-03:00:2022-08-22T10:13:55.3469546-03:00:[AssemblyCache] Resolved 'Microsoft.DotNet.PlatformAbstractions' to 'C:\Users\jcoelho\.nuget\packages\microsoft.dotnet.platformabstractions\1.0.3\lib\netstandard1.3\Microsoft.DotNet.PlatformAbstractions.dll'
+2022-08-22T10:13:55.3540822-03:00:2022-08-22T10:13:55.3537192-03:00:Thread#0:T:-> Missing [assembly:RuntimePlugin] attribute in TANeoway, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null. Please check https://go.specflow.org/doc-plugins for details.
+2022-08-22T10:13:55.3545980-03:00:2022-08-22T10:13:55.3543585-03:00:Thread#0:T:-> Loading plugin C:\Users\jcoelho\source\repos\TANeoway\TANeoway\bin\Debug\net5.0\LivingDoc.SpecFlowPlugin.dll
+2022-08-22T10:13:55.3575324-03:00:2022-08-22T10:13:55.3572205-03:00:Assembly resolving LivingDoc.Dtos, Version=3.9.0.0, Culture=neutral, PublicKeyToken=null
+2022-08-22T10:13:55.3579158-03:00:2022-08-22T10:13:55.3577125-03:00:[AssemblyCache] Trying to resolve 'LivingDoc.Dtos' from .deps.json file
+2022-08-22T10:13:55.3584658-03:00:2022-08-22T10:13:55.3582505-03:00:[AssemblyCache] Resolved 'LivingDoc.Dtos' to 'C:\Users\jcoelho\.nuget\packages\specflow.plus.livingdocplugin\3.9.57\lib\netstandard2.0\LivingDoc.Dtos.dll'
+2022-08-22T10:13:55.3603261-03:00:2022-08-22T10:13:55.3600203-03:00:Thread#0:T:-> Loading plugin C:\Users\jcoelho\source\repos\TANeoway\TANeoway\bin\Debug\net5.0\SpecRun.Runtime.SpecFlowPlugin.dll
+2022-08-22T10:13:55.3733066-03:00:2022-08-22T10:13:55.3729495-03:00:Thread#0:T:-> Using default config
+2022-08-22T10:13:55.3808659-03:00:2022-08-22T10:13:55.3805121-03:00:Assembly resolving Cucumber.Messages, Version=6.0.1.0, Culture=neutral, PublicKeyToken=b10c5988214f940c
+2022-08-22T10:13:55.3812059-03:00:2022-08-22T10:13:55.3810475-03:00:[AssemblyCache] Trying to resolve 'Cucumber.Messages' from .deps.json file
+2022-08-22T10:13:55.3821831-03:00:2022-08-22T10:13:55.3815558-03:00:[AssemblyCache] Resolved 'Cucumber.Messages' to 'C:\Users\jcoelho\.nuget\packages\cucumber.messages\6.0.1\lib\netstandard2.0\Cucumber.Messages.dll'
+2022-08-22T10:13:55.3839267-03:00:2022-08-22T10:13:55.3835541-03:00:Assembly resolving Google.Protobuf, Version=3.7.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604
+2022-08-22T10:13:55.3843221-03:00:2022-08-22T10:13:55.3841442-03:00:[AssemblyCache] Trying to resolve 'Google.Protobuf' from .deps.json file
+2022-08-22T10:13:55.3903135-03:00:2022-08-22T10:13:55.3846531-03:00:[AssemblyCache] Resolved 'Google.Protobuf' to 'C:\Users\jcoelho\.nuget\packages\google.protobuf\3.7.0\lib\netstandard1.0\Google.Protobuf.dll'
+2022-08-22T10:13:55.3953477-03:00:2022-08-22T10:13:55.3949988-03:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.ObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2022-08-22T10:13:55.3957164-03:00:2022-08-22T10:13:55.3955135-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.ObjectModel' from .deps.json file
+2022-08-22T10:13:55.3963421-03:00:2022-08-22T10:13:55.3961036-03:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.TestPlatform.ObjectModel' to 'C:\Users\jcoelho\.nuget\packages\microsoft.testplatform.objectmodel\17.0.0\lib\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll'
+2022-08-22T10:13:55.4228880-03:00:2022-08-22T10:13:55.4224958-03:00:Assembly resolving SpecFlow.Internal.Json, Version=1.0.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2022-08-22T10:13:55.4232971-03:00:2022-08-22T10:13:55.4231218-03:00:[AssemblyCache] Trying to resolve 'SpecFlow.Internal.Json' from .deps.json file
+2022-08-22T10:13:55.4238445-03:00:2022-08-22T10:13:55.4236184-03:00:[AssemblyCache] Resolved 'SpecFlow.Internal.Json' to 'C:\Users\jcoelho\.nuget\packages\specflow.internal.json\1.0.8\lib\netstandard2.0\SpecFlow.Internal.Json.dll'
+2022-08-22T10:13:55.4871773-03:00:Thread#0: Test #4/0 is started on thread #0
+2022-08-22T10:13:55.5201579-03:00:2022-08-22T10:13:55.5197102-03:00:Assembly resolving WebDriver, Version=4.0.0.0, Culture=neutral, PublicKeyToken=null
+2022-08-22T10:13:55.5206451-03:00:2022-08-22T10:13:55.5204086-03:00:[AssemblyCache] Trying to resolve 'WebDriver' from .deps.json file
+2022-08-22T10:13:55.5212653-03:00:2022-08-22T10:13:55.5209759-03:00:[AssemblyCache] Resolved 'WebDriver' to 'C:\Users\jcoelho\.nuget\packages\selenium.webdriver\4.4.0\lib\net5.0\WebDriver.dll'
+2022-08-22T10:13:56.8165350-03:00:2022-08-22T10:13:56.8159133-03:00:Assembly resolving Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed
+2022-08-22T10:13:56.8171847-03:00:2022-08-22T10:13:56.8168851-03:00:[AssemblyCache] Trying to resolve 'Newtonsoft.Json' from .deps.json file
+2022-08-22T10:13:56.8179221-03:00:2022-08-22T10:13:56.8176010-03:00:[AssemblyCache] Resolved 'Newtonsoft.Json' to 'C:\Users\jcoelho\.nuget\packages\newtonsoft.json\13.0.1\lib\netstandard2.0\Newtonsoft.Json.dll'
+2022-08-22T10:13:58.5704762-03:00:2022-08-22T10:13:58.5699923-03:00:Thread#0:B:Given que acessei o site da WSchool
+2022-08-22T10:13:58.7156706-03:00:2022-08-22T10:13:58.7152157-03:00:Thread#0:T:error: Object reference not set to an instance of an object. (0,1s)
+2022-08-22T10:13:58.7179314-03:00:2022-08-22T10:13:58.7175083-03:00:Thread#0:B:And que usei a navegação principal para a modal Boxes
+2022-08-22T10:13:58.7192160-03:00:2022-08-22T10:13:58.7188867-03:00:Thread#0:T:skipped because of previous errors
+2022-08-22T10:13:58.7217012-03:00:2022-08-22T10:13:58.7213856-03:00:Thread#0:B:And que usei a navegação lateral para a abrir modal Boxes
+2022-08-22T10:13:58.7223348-03:00:2022-08-22T10:13:58.7220428-03:00:Thread#0:T:skipped because of previous errors
+2022-08-22T10:13:58.7230766-03:00:2022-08-22T10:13:58.7227776-03:00:Thread#0:B:Then verifico se a modal Boxes foi exibida
+2022-08-22T10:13:58.7237644-03:00:2022-08-22T10:13:58.7234675-03:00:Thread#0:T:skipped because of previous errors
+2022-08-22T10:13:58.7243441-03:00:2022-08-22T10:13:58.7240641-03:00:Thread#0:B:And fecho a modal boxes
+2022-08-22T10:13:58.7248795-03:00:2022-08-22T10:13:58.7246240-03:00:Thread#0:T:skipped because of previous errors
+2022-08-22T10:13:58.7257683-03:00:2022-08-22T10:13:58.7251418-03:00:Thread#0:B:Then verifico se a modal boxes não está mais visível
+2022-08-22T10:13:58.7262987-03:00:2022-08-22T10:13:58.7260774-03:00:Thread#0:T:skipped because of previous errors
+2022-08-22T10:13:58.7525666-03:00:Thread#0:TestItem#4:Scheduler: reschedule tests for testitem #4
+2022-08-22T10:13:58.7543304-03:00:Thread#0:Scheduler: get next test for thread 0
+2022-08-22T10:13:58.7543670-03:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2022-08-22T10:13:58.7543713-03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2022-08-22T10:13:58.7544229-03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2022-08-22T10:13:58.7544253-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2022-08-22T10:13:58.7544263-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2022-08-22T10:13:58.7544289-03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2022-08-22T10:13:58.7544466-03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2022-08-22T10:13:58.7544551-03:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2022-08-22T10:13:58.7879787-03:00:Thread#0: Test #4/0 is finished on thread #0 as Failed within 3,3001977 seconds
+2022-08-22T10:13:58.7901442-03:00:Thread#0: Test #4/1 is started on thread #0
+2022-08-22T10:14:00.1815607-03:00:2022-08-22T10:14:00.1811462-03:00:Thread#0:B:Given que acessei o site da WSchool
+2022-08-22T10:14:00.1828181-03:00:2022-08-22T10:14:00.1825183-03:00:Thread#0:T:error: Object reference not set to an instance of an object. (0,0s)
+2022-08-22T10:14:00.1833928-03:00:2022-08-22T10:14:00.1831294-03:00:Thread#0:B:And que usei a navegação principal para a modal Boxes
+2022-08-22T10:14:00.1838248-03:00:2022-08-22T10:14:00.1836145-03:00:Thread#0:T:skipped because of previous errors
+2022-08-22T10:14:00.1843493-03:00:2022-08-22T10:14:00.1840934-03:00:Thread#0:B:And que usei a navegação lateral para a abrir modal Boxes
+2022-08-22T10:14:00.1847438-03:00:2022-08-22T10:14:00.1845322-03:00:Thread#0:T:skipped because of previous errors
+2022-08-22T10:14:00.1853201-03:00:2022-08-22T10:14:00.1850311-03:00:Thread#0:B:Then verifico se a modal Boxes foi exibida
+2022-08-22T10:14:00.1857815-03:00:2022-08-22T10:14:00.1855986-03:00:Thread#0:T:skipped because of previous errors
+2022-08-22T10:14:00.1862044-03:00:2022-08-22T10:14:00.1859903-03:00:Thread#0:B:And fecho a modal boxes
+2022-08-22T10:14:00.1865984-03:00:2022-08-22T10:14:00.1863766-03:00:Thread#0:T:skipped because of previous errors
+2022-08-22T10:14:00.1869207-03:00:2022-08-22T10:14:00.1867669-03:00:Thread#0:B:Then verifico se a modal boxes não está mais visível
+2022-08-22T10:14:00.1872770-03:00:2022-08-22T10:14:00.1871344-03:00:Thread#0:T:skipped because of previous errors
+2022-08-22T10:14:00.1884766-03:00:Thread#0:Scheduler: get next test for thread 0
+2022-08-22T10:14:00.1884837-03:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2022-08-22T10:14:00.1884852-03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2022-08-22T10:14:00.1885335-03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2022-08-22T10:14:00.1885356-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2022-08-22T10:14:00.1885365-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2022-08-22T10:14:00.1885376-03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2022-08-22T10:14:00.1885467-03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2022-08-22T10:14:00.1885513-03:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2022-08-22T10:14:00.1896542-03:00:Thread#0: Test #4/1 is finished on thread #0 as Failed within 1,399464 seconds
+2022-08-22T10:14:00.1900523-03:00:Thread#0: Test #4/2 is started on thread #0
+2022-08-22T10:14:02.0199705-03:00:2022-08-22T10:14:02.0196959-03:00:Thread#0:B:Given que acessei o site da WSchool
+2022-08-22T10:14:02.0212157-03:00:2022-08-22T10:14:02.0209774-03:00:Thread#0:T:error: Object reference not set to an instance of an object. (0,0s)
+2022-08-22T10:14:02.0216548-03:00:2022-08-22T10:14:02.0214638-03:00:Thread#0:B:And que usei a navegação principal para a modal Boxes
+2022-08-22T10:14:02.0228779-03:00:2022-08-22T10:14:02.0219236-03:00:Thread#0:T:skipped because of previous errors
+2022-08-22T10:14:02.0234794-03:00:2022-08-22T10:14:02.0232710-03:00:Thread#0:B:And que usei a navegação lateral para a abrir modal Boxes
+2022-08-22T10:14:02.0240007-03:00:2022-08-22T10:14:02.0238125-03:00:Thread#0:T:skipped because of previous errors
+2022-08-22T10:14:02.0243576-03:00:2022-08-22T10:14:02.0242091-03:00:Thread#0:B:Then verifico se a modal Boxes foi exibida
+2022-08-22T10:14:02.0255184-03:00:2022-08-22T10:14:02.0251672-03:00:Thread#0:T:skipped because of previous errors
+2022-08-22T10:14:02.0265056-03:00:2022-08-22T10:14:02.0259093-03:00:Thread#0:B:And fecho a modal boxes
+2022-08-22T10:14:02.0278179-03:00:2022-08-22T10:14:02.0271676-03:00:Thread#0:T:skipped because of previous errors
+2022-08-22T10:14:02.0285942-03:00:2022-08-22T10:14:02.0282568-03:00:Thread#0:B:Then verifico se a modal boxes não está mais visível
+2022-08-22T10:14:02.0291299-03:00:2022-08-22T10:14:02.0289099-03:00:Thread#0:T:skipped because of previous errors
+2022-08-22T10:14:02.0306525-03:00:Thread#0:Scheduler: get next test for thread 0
+2022-08-22T10:14:02.0306932-03:00:Thread#:Scheduler: testitem #5 from normal test queue 
+2022-08-22T10:14:02.0306983-03:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2022-08-22T10:14:02.0307357-03:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2022-08-22T10:14:02.0307400-03:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2022-08-22T10:14:02.0307418-03:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2022-08-22T10:14:02.0307439-03:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2022-08-22T10:14:02.0307892-03:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2022-08-22T10:14:02.0308070-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2022-08-22T10:14:02.0332145-03:00:Thread#0: Test #4/2 is finished on thread #0 as Failed within 1,8430976 seconds
+2022-08-22T10:14:02.0337711-03:00:Thread#0: Test #5/0 is started on thread #0
+2022-08-22T10:14:04.6549696-03:00:2022-08-22T10:14:04.6547331-03:00:Thread#0:B:Given que acessei o site da WSchool
+2022-08-22T10:14:04.6560116-03:00:2022-08-22T10:14:04.6557314-03:00:Thread#0:T:error: Object reference not set to an instance of an object. (0,0s)
+2022-08-22T10:14:04.6567742-03:00:2022-08-22T10:14:04.6563693-03:00:Thread#0:B:And que usei a navegação principal para a abrir Grupos de Cores
+2022-08-22T10:14:04.6572904-03:00:2022-08-22T10:14:04.6570522-03:00:Thread#0:T:skipped because of previous errors
+2022-08-22T10:14:04.6587221-03:00:2022-08-22T10:14:04.6579058-03:00:Thread#0:B:And que usei a navegação lateral para a abrir Grupo de Cores
+2022-08-22T10:14:04.6598990-03:00:2022-08-22T10:14:04.6594005-03:00:Thread#0:T:skipped because of previous errors
+2022-08-22T10:14:04.6606846-03:00:2022-08-22T10:14:04.6603469-03:00:Thread#0:B:Then verifico se a "Cor" está igual  a "Hexadecimal"
+2022-08-22T10:14:04.6625819-03:00:2022-08-22T10:14:04.6621893-03:00:Thread#0:T:skipped because of previous errors
+2022-08-22T10:14:04.6637689-03:00:Thread#0:TestItem#5:Scheduler: reschedule tests for testitem #5
+2022-08-22T10:14:04.6641521-03:00:Thread#0:Scheduler: get next test for thread 0
+2022-08-22T10:14:04.6641603-03:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #5
+2022-08-22T10:14:04.6641620-03:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2022-08-22T10:14:04.6641893-03:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2022-08-22T10:14:04.6641919-03:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2022-08-22T10:14:04.6641929-03:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2022-08-22T10:14:04.6641985-03:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2022-08-22T10:14:04.6642264-03:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2022-08-22T10:14:04.6642326-03:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2022-08-22T10:14:04.6653589-03:00:Thread#0: Test #5/0 is finished on thread #0 as Failed within 2,6315452 seconds
+2022-08-22T10:14:04.6658369-03:00:Thread#0: Test #5/1 is started on thread #0
+2022-08-22T10:14:07.7321970-03:00:2022-08-22T10:14:07.7318935-03:00:Thread#0:B:Given que acessei o site da WSchool
+2022-08-22T10:14:07.7333034-03:00:2022-08-22T10:14:07.7330969-03:00:Thread#0:T:error: Object reference not set to an instance of an object. (0,0s)
+2022-08-22T10:14:07.7336694-03:00:2022-08-22T10:14:07.7335368-03:00:Thread#0:B:And que usei a navegação principal para a abrir Grupos de Cores
+2022-08-22T10:14:07.7339384-03:00:2022-08-22T10:14:07.7338401-03:00:Thread#0:T:skipped because of previous errors
+2022-08-22T10:14:07.7341916-03:00:2022-08-22T10:14:07.7340883-03:00:Thread#0:B:And que usei a navegação lateral para a abrir Grupo de Cores
+2022-08-22T10:14:07.7344781-03:00:2022-08-22T10:14:07.7343525-03:00:Thread#0:T:skipped because of previous errors
+2022-08-22T10:14:07.7347755-03:00:2022-08-22T10:14:07.7346319-03:00:Thread#0:B:Then verifico se a "Cor" está igual  a "Hexadecimal"
+2022-08-22T10:14:07.7350950-03:00:2022-08-22T10:14:07.7349545-03:00:Thread#0:T:skipped because of previous errors
+2022-08-22T10:14:07.7359723-03:00:Thread#0:Scheduler: get next test for thread 0
+2022-08-22T10:14:07.7359813-03:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #5
+2022-08-22T10:14:07.7359827-03:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2022-08-22T10:14:07.7360229-03:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2022-08-22T10:14:07.7360266-03:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2022-08-22T10:14:07.7360275-03:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2022-08-22T10:14:07.7360284-03:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2022-08-22T10:14:07.7360419-03:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2022-08-22T10:14:07.7360529-03:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2022-08-22T10:14:07.7372017-03:00:Thread#0: Test #5/1 is finished on thread #0 as Failed within 3,0713032 seconds
+2022-08-22T10:14:07.7376775-03:00:Thread#0: Test #5/2 is started on thread #0
+2022-08-22T10:14:13.8003599-03:00:2022-08-22T10:14:13.7992984-03:00:Thread#0:B:Given que acessei o site da WSchool
+2022-08-22T10:14:13.8022127-03:00:2022-08-22T10:14:13.8019004-03:00:Thread#0:T:error: Object reference not set to an instance of an object. (0,0s)
+2022-08-22T10:14:13.8029182-03:00:2022-08-22T10:14:13.8025593-03:00:Thread#0:B:And que usei a navegação principal para a abrir Grupos de Cores
+2022-08-22T10:14:13.8035048-03:00:2022-08-22T10:14:13.8033082-03:00:Thread#0:T:skipped because of previous errors
+2022-08-22T10:14:13.8039072-03:00:2022-08-22T10:14:13.8037110-03:00:Thread#0:B:And que usei a navegação lateral para a abrir Grupo de Cores
+2022-08-22T10:14:13.8043737-03:00:2022-08-22T10:14:13.8042253-03:00:Thread#0:T:skipped because of previous errors
+2022-08-22T10:14:13.8046618-03:00:2022-08-22T10:14:13.8045361-03:00:Thread#0:B:Then verifico se a "Cor" está igual  a "Hexadecimal"
+2022-08-22T10:14:13.8051281-03:00:2022-08-22T10:14:13.8049744-03:00:Thread#0:T:skipped because of previous errors
+2022-08-22T10:14:13.8067037-03:00:Thread#0:Scheduler: get next test for thread 0
+2022-08-22T10:14:13.8067191-03:00:Thread#:Scheduler: testitem #6 from normal test queue 
+2022-08-22T10:14:13.8067217-03:00:Thread#0:Scheduler: considering testitem #6 for thread 0
+2022-08-22T10:14:13.8067662-03:00:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2022-08-22T10:14:13.8067710-03:00:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2022-08-22T10:14:13.8067725-03:00:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+2022-08-22T10:14:13.8067742-03:00:Thread#0:Scheduler: using testitem #6 for thread 0
+2022-08-22T10:14:13.8068017-03:00:Thread#0:Scheduler: Test #6 is scheduled for thread
+2022-08-22T10:14:13.8068149-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2022-08-22T10:14:13.8088704-03:00:Thread#0: Test #5/2 is finished on thread #0 as Failed within 6,0711207 seconds
+2022-08-22T10:14:13.8131641-03:00:Thread#0: Test #6/0 is started on thread #0
+2022-08-22T10:14:16.0231154-03:00:2022-08-22T10:14:16.0228724-03:00:Thread#0:B:Given que acessei o site da WSchool
+2022-08-22T10:14:16.0241610-03:00:2022-08-22T10:14:16.0239163-03:00:Thread#0:T:error: Object reference not set to an instance of an object. (0,0s)
+2022-08-22T10:14:16.0245466-03:00:2022-08-22T10:14:16.0244232-03:00:Thread#0:B:And que usei a navegação principal para a abrir Grupos de Cores
+2022-08-22T10:14:16.0248868-03:00:2022-08-22T10:14:16.0247505-03:00:Thread#0:T:skipped because of previous errors
+2022-08-22T10:14:16.0251603-03:00:2022-08-22T10:14:16.0250666-03:00:Thread#0:B:And que usei a navegação lateral para a abrir Grupo de Cores
+2022-08-22T10:14:16.0254678-03:00:2022-08-22T10:14:16.0253324-03:00:Thread#0:T:skipped because of previous errors
+2022-08-22T10:14:16.0257245-03:00:2022-08-22T10:14:16.0255925-03:00:Thread#0:B:Then verifico se a "Cor" está igual  a "Hexadecimal"
+2022-08-22T10:14:16.0260387-03:00:2022-08-22T10:14:16.0258612-03:00:Thread#0:T:skipped because of previous errors
+2022-08-22T10:14:16.0267387-03:00:Cancelling because configured number of failures reached
+2022-08-22T10:14:16.0290984-03:00:Thread#0: Test #6/0 is finished on thread #0 as Failed within 2,2158952 seconds
+2022-08-22T10:14:16.0361380-03:00:2022-08-22T10:14:16.0358910-03:00:Got Deinitialize Signal
+2022-08-22T10:14:16.0384270-03:00:RPC Client disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2022-08-22T10:14:16.0390322-03:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2022-08-22T10:14:16.0399500-03:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2022-08-22T10:14:16.3156714-03:00:Thread#-1:Scheduler: get next test for thread -1
+2022-08-22T10:14:16.3156893-03:00:Thread#:Scheduler: testitem #7 from normal test queue 
+2022-08-22T10:14:16.3156919-03:00:Thread#-1:Scheduler: considering testitem #7 for thread -1
+2022-08-22T10:14:16.3156934-03:00:Thread#-1:Scheduler: using testitem #7 for thread -1
+2022-08-22T10:14:16.3156953-03:00:Thread#-1:Scheduler: Test #7 is scheduled for thread
+2022-08-22T10:14:16.3160106-03:00:Thread#-1: Test #7/0 is started on thread #-1
+2022-08-22T10:14:16.3160722-03:00:Thread#-1: Test #7/0 is finished on thread #-1 as Skipped within 3,16E-05 seconds
+2022-08-22T10:14:16.3162069-03:00:Thread#-1:Scheduler: get next test for thread -1
+2022-08-22T10:14:16.3162176-03:00:Thread#:Scheduler: testitem #8 from normal test queue 
+2022-08-22T10:14:16.3162198-03:00:Thread#-1:Scheduler: considering testitem #8 for thread -1
+2022-08-22T10:14:16.3162213-03:00:Thread#-1:Scheduler: using testitem #8 for thread -1
+2022-08-22T10:14:16.3162231-03:00:Thread#-1:Scheduler: Test #8 is scheduled for thread
+2022-08-22T10:14:16.3162415-03:00:Thread#-1: Test #8/0 is started on thread #-1
+2022-08-22T10:14:16.3162585-03:00:Thread#-1: Test #8/0 is finished on thread #-1 as Skipped within 2,3E-06 seconds
+2022-08-22T10:14:16.3172652-03:00:Thread#-1:Scheduler: get next test for thread -1
+2022-08-22T10:14:16.3172743-03:00:Thread#:Scheduler: testitem #9 from normal test queue 
+2022-08-22T10:14:16.3172763-03:00:Thread#-1:Scheduler: considering testitem #9 for thread -1
+2022-08-22T10:14:16.3172791-03:00:Thread#-1:Scheduler: using testitem #9 for thread -1
+2022-08-22T10:14:16.3172813-03:00:Thread#-1:Scheduler: Test #9 is scheduled for thread
+2022-08-22T10:14:16.3172982-03:00:Thread#-1: Test #9/0 is started on thread #-1
+2022-08-22T10:14:16.3173126-03:00:Thread#-1: Test #9/0 is finished on thread #-1 as Skipped within 2,7E-06 seconds
+2022-08-22T10:14:16.3173846-03:00:Thread#-1:Scheduler: get next test for thread -1
+2022-08-22T10:14:16.3173884-03:00:Thread#:Scheduler: testitem #10 from normal test queue 
+2022-08-22T10:14:16.3173904-03:00:Thread#-1:Scheduler: considering testitem #10 for thread -1
+2022-08-22T10:14:16.3173919-03:00:Thread#-1:Scheduler: using testitem #10 for thread -1
+2022-08-22T10:14:16.3173934-03:00:Thread#-1:Scheduler: Test #10 is scheduled for thread
+2022-08-22T10:14:16.3174016-03:00:Thread#-1: Test #10/0 is started on thread #-1
+2022-08-22T10:14:16.3174149-03:00:Thread#-1: Test #10/0 is finished on thread #-1 as Skipped within 2E-06 seconds
+2022-08-22T10:14:16.3175183-03:00:Thread#-1:Scheduler: get next test for thread -1
+2022-08-22T10:14:16.3175227-03:00:Thread#:Scheduler: testitem #11 from normal test queue 
+2022-08-22T10:14:16.3175251-03:00:Thread#-1:Scheduler: considering testitem #11 for thread -1
+2022-08-22T10:14:16.3175272-03:00:Thread#-1:Scheduler: using testitem #11 for thread -1
+2022-08-22T10:14:16.3175304-03:00:Thread#-1:Scheduler: Test #11 is scheduled for thread
+2022-08-22T10:14:16.3175404-03:00:Thread#-1: Test #11/0 is started on thread #-1
+2022-08-22T10:14:16.3175528-03:00:Thread#-1: Test #11/0 is finished on thread #-1 as Skipped within 6,5E-06 seconds
+2022-08-22T10:14:16.3175753-03:00:Thread#-1:Scheduler: get next test for thread -1
+2022-08-22T10:14:16.3175774-03:00:Thread#:Scheduler: testitem #12 from normal test queue 
+2022-08-22T10:14:16.3175788-03:00:Thread#-1:Scheduler: considering testitem #12 for thread -1
+2022-08-22T10:14:16.3175799-03:00:Thread#-1:Scheduler: using testitem #12 for thread -1
+2022-08-22T10:14:16.3175809-03:00:Thread#-1:Scheduler: Test #12 is scheduled for thread
+2022-08-22T10:14:16.3175883-03:00:Thread#-1: Test #12/0 is started on thread #-1
+2022-08-22T10:14:16.3175937-03:00:Thread#-1: Test #12/0 is finished on thread #-1 as Skipped within 8E-07 seconds
+2022-08-22T10:14:16.3176245-03:00:Thread#-1:Scheduler: get next test for thread -1
+2022-08-22T10:14:16.3176300-03:00:Thread#:Scheduler: at the end of normal test queue
+2022-08-22T10:14:16.3176317-03:00:Thread#-1:Scheduler: enumerator for thread is at end
+2022-08-22T10:14:16.3275252-03:00;Thread#12;Info;test run finished
+2022-08-22T10:14:16.3278151-03:00;Thread#12;Info;publishing test results
+2022-08-22T10:14:16.3288122-03:00;Thread#12;Info;Not publishing results.
+2022-08-22T10:14:16.3290132-03:00;Thread#12;Info;test results published
+2022-08-22T10:14:16.3290897-03:00;Thread#12;Info;generating reports
+2022-08-22T10:14:16.4092584-03:00;Thread#12;Info;Starting external report generation process
+2022-08-22T10:14:21.5056465-03:00;Thread#12;Info;Successfully generated reports.
+2022-08-22T10:14:21.5090232-03:00;Thread#12;Info;Successfully generated reports
+2022-08-22T10:14:21.5174434-03:00:Total: 9 (test executions: 13)
+2022-08-22T10:14:21.5196049-03:00:Succeeded: 0
+2022-08-22T10:14:21.5200022-03:00:Ignored: 0
+2022-08-22T10:14:21.5202621-03:00:Pending: 0
+2022-08-22T10:14:21.5202689-03:00:Skipped: 6
+2022-08-22T10:14:21.5205195-03:00:Failed: 3
+2022-08-22T10:14:21.5252705-03:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2022-08-22T10:14:21.5254301-03:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\jcoelho\source\repos\TANeoway\TestResults\Unnamed project__2022-08-22T101353.html'
+========== End of log file ==========

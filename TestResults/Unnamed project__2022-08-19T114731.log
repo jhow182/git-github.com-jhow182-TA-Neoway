@@ -1,0 +1,144 @@
+﻿2022-08-19T11:47:31.8509911-03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2022-08-19T11:47:31.8510980-03:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.9.7 in Framework net50 in x64 mode execution started
+2022-08-19T11:47:31.8511020-03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\jcoelho\source\repos\TANeoway\TANeoway\bin\Debug\net5.0\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2022-08-19T11:47:31.8528512-03:00;VSTestExecutionThread;Info;Current UserName: 'jcoelho', MachineName: 'JCOELHO'
+2022-08-19T11:47:31.8896074-03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\jcoelho\source\repos\TANeoway\TANeoway\bin\Debug\net5.0\TANeoway.dll
+2022-08-19T11:47:31.8898849-03:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\jcoelho\source\repos\TANeoway\TestResults" (default)
+2022-08-19T11:47:31.8899863-03:00;VSTestExecutionThread;Info;Profile: 
+2022-08-19T11:47:32.1747879-03:00;VSTestExecutionThread;Info;Log file path: C:\Users\jcoelho\source\repos\TANeoway\TestResults\Unnamed project__2022-08-19T114731.log
+2022-08-19T11:47:32.1961045-03:00;Thread#15;Info;Checking activation
+2022-08-19T11:47:32.3913392-03:00;Thread#15;Info;Activated.
+2022-08-19T11:47:32.3915755-03:00;Thread#15;Info;Activation check completed
+2022-08-19T11:47:32.3916914-03:00;Thread#15;Info;Starting test run
+2022-08-19T11:47:32.4998389-03:00;Thread#15;Info;Discovering target: Default
+2022-08-19T11:47:32.5000390-03:00;Thread#15;Info;Discovering tests from assembly: C:\Users\jcoelho\source\repos\TANeoway\TANeoway\bin\Debug\net5.0\TANeoway.dll
+2022-08-19T11:47:33.0865507-03:00;Thread#15;Info;Discovered tests from assembly: C:\Users\jcoelho\source\repos\TANeoway\TANeoway\bin\Debug\net5.0\TANeoway.dll
+2022-08-19T11:47:33.0879676-03:00:Test Suite Dump
+2022-08-19T11:47:33.0899613-03:00:#0: Unnamed project/ - 
+2022-08-19T11:47:33.0899999-03:00:#1: Default - 
+2022-08-19T11:47:33.0900038-03:00:#2: TANeoway - 
+2022-08-19T11:47:33.0900061-03:00:#3: W3school - 
+2022-08-19T11:47:33.0916970-03:00:#4: Acesso à página: How To Make a Modal Box With CSS and JavaScript - TestAssembly:TANeoway/Feature:W3school/Scenario:Acesso+%c3%a0+p%c3%a1gina%3a+How+To+Make+a+Modal+Box+With+CSS+and+JavaScript
+2022-08-19T11:47:33.0917517-03:00:End: Test Suite Dump
+2022-08-19T11:47:33.1118242-03:00:Thread#0:Scheduler: get next test for thread 0
+2022-08-19T11:47:33.1141573-03:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2022-08-19T11:47:33.1142395-03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2022-08-19T11:47:33.1189965-03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2022-08-19T11:47:33.1190153-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2022-08-19T11:47:33.1190280-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2022-08-19T11:47:33.1190332-03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2022-08-19T11:47:33.1201688-03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2022-08-19T11:47:33.1218939-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2022-08-19T11:47:33.1250422-03:00:Thread #0: creating new test thread executor for TANeoway, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2022-08-19T11:47:33.1286421-03:00:Thread #0: Creating test assembly executor for execution model OutProc
+2022-08-19T11:47:33.1289280-03:00:Thread #0: Creating test assembly executor for execution model OutProc
+2022-08-19T11:47:33.1995629-03:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2022-08-19T11:47:33.2041569-03:00:starting Out Of Process Executor
+2022-08-19T11:47:33.3523476-03:00:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2022-08-19T11:47:33.3563073-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' from .deps.json file
+2022-08-19T11:47:33.3563287-03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' from .deps.json
+2022-08-19T11:47:33.3574126-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\jcoelho\source\repos\TANeoway\TANeoway\bin\Debug\net5.0'
+2022-08-19T11:47:33.3587076-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\jcoelho\source\repos\TANeoway\TANeoway\bin\Debug\net5.0\Microsoft.VisualStudio.Validation.dll'
+2022-08-19T11:47:33.3588348-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\jcoelho\source\repos\TANeoway\TANeoway\bin\Debug\net5.0\Microsoft.VisualStudio.Validation.exe'
+2022-08-19T11:47:33.3588774-03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\jcoelho\source\repos\TANeoway\TANeoway\bin\Debug\net5.0'
+2022-08-19T11:47:33.3591133-03:00:TargetFramework: .NETCoreApp,Version=v5.0
+2022-08-19T11:47:33.3602737-03:00:Tfm: netcoreapp5.0
+2022-08-19T11:47:33.3602895-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\jcoelho\source\repos\TANeoway\TANeoway\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0'
+2022-08-19T11:47:33.3602909-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\jcoelho\source\repos\TANeoway\TANeoway\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0\Microsoft.VisualStudio.Validation.dll'
+2022-08-19T11:47:33.3603974-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\jcoelho\source\repos\TANeoway\TANeoway\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0\Microsoft.VisualStudio.Validation.exe'
+2022-08-19T11:47:33.3604481-03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\jcoelho\source\repos\TANeoway\TANeoway\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0'
+2022-08-19T11:47:33.3705319-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.15'
+2022-08-19T11:47:33.3705558-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.15\Microsoft.VisualStudio.Validation.dll'
+2022-08-19T11:47:33.3710639-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.15\Microsoft.VisualStudio.Validation.exe'
+2022-08-19T11:47:33.3711643-03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.15'
+2022-08-19T11:47:33.3714684-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.15'
+2022-08-19T11:47:33.3714779-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.15\Microsoft.VisualStudio.Validation.dll'
+2022-08-19T11:47:33.3715313-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.15\Microsoft.VisualStudio.Validation.exe'
+2022-08-19T11:47:33.3715886-03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.15'
+2022-08-19T11:47:33.3723610-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.15'
+2022-08-19T11:47:33.3724133-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.15\Microsoft.VisualStudio.Validation.dll'
+2022-08-19T11:47:33.3731718-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.15\Microsoft.VisualStudio.Validation.exe'
+2022-08-19T11:47:33.3732724-03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.15'
+2022-08-19T11:47:33.3853797-03:00:Starting callback TCP Rpc server
+2022-08-19T11:47:33.4412248-03:00:Asynchronously starting background TCP Rpc Server on port 32768
+2022-08-19T11:47:33.4413559-03:00:Started callback TCP Rpc server on port 32768
+2022-08-19T11:47:33.4413629-03:00:Starting logger TCP Rpc server
+2022-08-19T11:47:33.4443020-03:00:Asynchronously starting background TCP Rpc Server on port 32769
+2022-08-19T11:47:33.4443737-03:00:Started logger TCP Rpc server on port 32769
+2022-08-19T11:47:33.7863535-03:00;Thread#15;Info;Executor full path resolved: C:\Program Files\dotnet\dotnet.exe
+2022-08-19T11:47:33.7900308-03:00;Thread#15;Info;Starting SpecFlow+ Runner executor process with attached debugger...
+2022-08-19T11:47:33.9098308-03:00;Thread#15;Info;Successfully started SpecFlow+ Runner executor process
+2022-08-19T11:47:33.9193286-03:00:Out of Process Executor 17344 started
+2022-08-19T11:47:33.9193493-03:00:Waiting for endpoint
+2022-08-19T11:47:34.8297646-03:00:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2022-08-19T11:47:34.8297921-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' from .deps.json file
+2022-08-19T11:47:34.8297990-03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' from .deps.json
+2022-08-19T11:47:34.8298069-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\jcoelho\source\repos\TANeoway\TANeoway\bin\Debug\net5.0'
+2022-08-19T11:47:34.8298085-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\jcoelho\source\repos\TANeoway\TANeoway\bin\Debug\net5.0\Microsoft.VisualStudio.Threading.dll'
+2022-08-19T11:47:34.8298532-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\jcoelho\source\repos\TANeoway\TANeoway\bin\Debug\net5.0\Microsoft.VisualStudio.Threading.exe'
+2022-08-19T11:47:34.8298919-03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\jcoelho\source\repos\TANeoway\TANeoway\bin\Debug\net5.0'
+2022-08-19T11:47:34.8298950-03:00:TargetFramework: .NETCoreApp,Version=v5.0
+2022-08-19T11:47:34.8299186-03:00:Tfm: netcoreapp5.0
+2022-08-19T11:47:34.8299227-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\jcoelho\source\repos\TANeoway\TANeoway\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0'
+2022-08-19T11:47:34.8299248-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\jcoelho\source\repos\TANeoway\TANeoway\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0\Microsoft.VisualStudio.Threading.dll'
+2022-08-19T11:47:34.8299809-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\jcoelho\source\repos\TANeoway\TANeoway\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0\Microsoft.VisualStudio.Threading.exe'
+2022-08-19T11:47:34.8300229-03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\jcoelho\source\repos\TANeoway\TANeoway\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0'
+2022-08-19T11:47:34.8305651-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.15'
+2022-08-19T11:47:34.8305764-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.15\Microsoft.VisualStudio.Threading.dll'
+2022-08-19T11:47:34.8306517-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.15\Microsoft.VisualStudio.Threading.exe'
+2022-08-19T11:47:34.8306922-03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.15'
+2022-08-19T11:47:34.8308188-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.15'
+2022-08-19T11:47:34.8308249-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.15\Microsoft.VisualStudio.Threading.dll'
+2022-08-19T11:47:34.8308708-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.15\Microsoft.VisualStudio.Threading.exe'
+2022-08-19T11:47:34.8309096-03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.15'
+2022-08-19T11:47:34.8310400-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.15'
+2022-08-19T11:47:34.8310461-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.15\Microsoft.VisualStudio.Threading.dll'
+2022-08-19T11:47:34.8310983-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.15\Microsoft.VisualStudio.Threading.exe'
+2022-08-19T11:47:34.8311363-03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.15'
+2022-08-19T11:47:35.4302961-03:00:Remote executor port received: 32770
+2022-08-19T11:47:35.4306295-03:00:Creating executor TCP client on port 32770
+2022-08-19T11:47:35.4309873-03:00:Created executor TCP client on port 32770
+2022-08-19T11:47:35.4309936-03:00:Connecting to remote executor TCP server
+2022-08-19T11:47:35.4319964-03:00:Connected remote executor TCP server
+2022-08-19T11:47:35.4344777-03:00:trying to connect to Out of Process Executor the 1 attempt
+2022-08-19T11:47:35.4345074-03:00:Connection to Out of Process Executor established in the 1 attempt
+2022-08-19T11:47:35.6213071-03:00:2022-08-19T11:47:35.6168316-03:00:OutOfProcessTestAssemblyExecutor: initialized for C:\Users\jcoelho\source\repos\TANeoway\TANeoway\bin\Debug\net5.0\TANeoway.dll on test thread #0
+2022-08-19T11:47:35.6262677-03:00:Endpoint 17344 started
+2022-08-19T11:47:35.6472571-03:00:2022-08-19T11:47:35.6420179-03:00:OutOfProcessTestAssemblyExecutor: running tests...
+2022-08-19T11:47:35.7526701-03:00:2022-08-19T11:47:35.7518769-03:00:Assembly resolving TechTalk.SpecFlow, Version=3.9.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2022-08-19T11:47:35.7565286-03:00:2022-08-19T11:47:35.7557246-03:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecFlow' from .deps.json file
+2022-08-19T11:47:35.7644223-03:00:2022-08-19T11:47:35.7636978-03:00:[AssemblyCache] Resolved 'TechTalk.SpecFlow' to 'C:\Users\jcoelho\.nuget\packages\specflow\3.9.8\lib\netstandard2.0\TechTalk.SpecFlow.dll'
+2022-08-19T11:47:35.9279746-03:00:2022-08-19T11:47:35.9271725-03:00:Thread#0:T:-> Loading plugin C:\Users\jcoelho\source\repos\TANeoway\TANeoway\bin\Debug\net5.0\TANeoway.dll
+2022-08-19T11:47:35.9299556-03:00:2022-08-19T11:47:35.9294443-03:00:Assembly resolving Microsoft.Extensions.DependencyModel, Version=1.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-08-19T11:47:35.9308744-03:00:2022-08-19T11:47:35.9305036-03:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.DependencyModel' from .deps.json file
+2022-08-19T11:47:35.9323727-03:00:2022-08-19T11:47:35.9317558-03:00:[AssemblyCache] Resolved 'Microsoft.Extensions.DependencyModel' to 'C:\Users\jcoelho\.nuget\packages\microsoft.extensions.dependencymodel\1.0.3\lib\netstandard1.6\Microsoft.Extensions.DependencyModel.dll'
+2022-08-19T11:47:36.0112658-03:00:2022-08-19T11:47:36.0097528-03:00:Assembly resolving Microsoft.DotNet.PlatformAbstractions, Version=1.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-08-19T11:47:36.0125385-03:00:2022-08-19T11:47:36.0119111-03:00:[AssemblyCache] Trying to resolve 'Microsoft.DotNet.PlatformAbstractions' from .deps.json file
+2022-08-19T11:47:36.0142688-03:00:2022-08-19T11:47:36.0136587-03:00:[AssemblyCache] Resolved 'Microsoft.DotNet.PlatformAbstractions' to 'C:\Users\jcoelho\.nuget\packages\microsoft.dotnet.platformabstractions\1.0.3\lib\netstandard1.3\Microsoft.DotNet.PlatformAbstractions.dll'
+2022-08-19T11:47:36.0311705-03:00:2022-08-19T11:47:36.0304965-03:00:Thread#0:T:-> Missing [assembly:RuntimePlugin] attribute in TANeoway, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null. Please check https://go.specflow.org/doc-plugins for details.
+2022-08-19T11:47:36.0326158-03:00:2022-08-19T11:47:36.0320694-03:00:Thread#0:T:-> Loading plugin C:\Users\jcoelho\source\repos\TANeoway\TANeoway\bin\Debug\net5.0\LivingDoc.SpecFlowPlugin.dll
+2022-08-19T11:47:36.0426862-03:00:2022-08-19T11:47:36.0419251-03:00:Assembly resolving LivingDoc.Dtos, Version=3.9.0.0, Culture=neutral, PublicKeyToken=null
+2022-08-19T11:47:36.0437510-03:00:2022-08-19T11:47:36.0432862-03:00:[AssemblyCache] Trying to resolve 'LivingDoc.Dtos' from .deps.json file
+2022-08-19T11:47:36.0449328-03:00:2022-08-19T11:47:36.0445551-03:00:[AssemblyCache] Resolved 'LivingDoc.Dtos' to 'C:\Users\jcoelho\.nuget\packages\specflow.plus.livingdocplugin\3.9.57\lib\netstandard2.0\LivingDoc.Dtos.dll'
+2022-08-19T11:47:36.0594857-03:00:2022-08-19T11:47:36.0587809-03:00:Thread#0:T:-> Loading plugin C:\Users\jcoelho\source\repos\TANeoway\TANeoway\bin\Debug\net5.0\SpecRun.Runtime.SpecFlowPlugin.dll
+2022-08-19T11:47:36.0781596-03:00:2022-08-19T11:47:36.0773736-03:00:Thread#0:T:-> Using default config
+2022-08-19T11:47:36.0893948-03:00:2022-08-19T11:47:36.0886031-03:00:Assembly resolving Cucumber.Messages, Version=6.0.1.0, Culture=neutral, PublicKeyToken=b10c5988214f940c
+2022-08-19T11:47:36.0909378-03:00:2022-08-19T11:47:36.0903762-03:00:[AssemblyCache] Trying to resolve 'Cucumber.Messages' from .deps.json file
+2022-08-19T11:47:36.0920853-03:00:2022-08-19T11:47:36.0917606-03:00:[AssemblyCache] Resolved 'Cucumber.Messages' to 'C:\Users\jcoelho\.nuget\packages\cucumber.messages\6.0.1\lib\netstandard2.0\Cucumber.Messages.dll'
+2022-08-19T11:47:36.1081577-03:00:2022-08-19T11:47:36.1074146-03:00:Assembly resolving Google.Protobuf, Version=3.7.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604
+2022-08-19T11:47:36.1092989-03:00:2022-08-19T11:47:36.1089282-03:00:[AssemblyCache] Trying to resolve 'Google.Protobuf' from .deps.json file
+2022-08-19T11:47:36.1103239-03:00:2022-08-19T11:47:36.1099832-03:00:[AssemblyCache] Resolved 'Google.Protobuf' to 'C:\Users\jcoelho\.nuget\packages\google.protobuf\3.7.0\lib\netstandard1.0\Google.Protobuf.dll'
+2022-08-19T11:47:36.1324119-03:00:2022-08-19T11:47:36.1316455-03:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.ObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2022-08-19T11:47:36.1339345-03:00:2022-08-19T11:47:36.1332802-03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.ObjectModel' from .deps.json file
+2022-08-19T11:47:36.1355138-03:00:2022-08-19T11:47:36.1351040-03:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.TestPlatform.ObjectModel' to 'C:\Users\jcoelho\.nuget\packages\microsoft.testplatform.objectmodel\17.0.0\lib\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll'
+2022-08-19T11:47:36.1882682-03:00:2022-08-19T11:47:36.1875935-03:00:Assembly resolving SpecFlow.Internal.Json, Version=1.0.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2022-08-19T11:47:36.1895383-03:00:2022-08-19T11:47:36.1890998-03:00:[AssemblyCache] Trying to resolve 'SpecFlow.Internal.Json' from .deps.json file
+2022-08-19T11:47:36.1905907-03:00:2022-08-19T11:47:36.1902509-03:00:[AssemblyCache] Resolved 'SpecFlow.Internal.Json' to 'C:\Users\jcoelho\.nuget\packages\specflow.internal.json\1.0.8\lib\netstandard2.0\SpecFlow.Internal.Json.dll'
+2022-08-19T11:47:36.3128371-03:00:Thread#0: Test #4/0 is started on thread #0
+2022-08-19T11:47:36.4225006-03:00:2022-08-19T11:47:36.4218194-03:00:Assembly resolving WebDriver, Version=4.0.0.0, Culture=neutral, PublicKeyToken=null
+2022-08-19T11:47:36.4240828-03:00:2022-08-19T11:47:36.4234705-03:00:[AssemblyCache] Trying to resolve 'WebDriver' from .deps.json file
+2022-08-19T11:47:36.4257118-03:00:2022-08-19T11:47:36.4251318-03:00:[AssemblyCache] Resolved 'WebDriver' to 'C:\Users\jcoelho\.nuget\packages\selenium.webdriver\4.4.0\lib\net5.0\WebDriver.dll'
+2022-08-19T11:47:36.6190311-03:00:2022-08-19T11:47:36.6182280-03:00:Assembly resolving Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed
+2022-08-19T11:47:36.6204842-03:00:2022-08-19T11:47:36.6200408-03:00:[AssemblyCache] Trying to resolve 'Newtonsoft.Json' from .deps.json file
+2022-08-19T11:47:36.6222983-03:00:2022-08-19T11:47:36.6216293-03:00:[AssemblyCache] Resolved 'Newtonsoft.Json' to 'C:\Users\jcoelho\.nuget\packages\newtonsoft.json\13.0.1\lib\netstandard2.0\Newtonsoft.Json.dll'
+2022-08-19T11:47:38.4634135-03:00:2022-08-19T11:47:38.4626551-03:00:Thread#0:B:Given que acessei o site da WSchool
